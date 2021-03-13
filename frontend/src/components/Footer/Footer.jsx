@@ -35,7 +35,8 @@ export class Footer extends Component {
               <h6 className={style["footer__sub-title"]}>Resources</h6>
               <ul className={style["footer__nav-item-container"]}>
                 <li className={style["footer__nav-item"]}><a href="codeofconduct">Code of Conduct</a></li>  {/* after creating the code of conductpage just add the id of the same href name  */}
-                <li className={style["footer__nav-item"]}><a href="termsandconditions">Terms and Conditions</a></li>
+                <li className={style["footer__nav-item"]}><a href="termsandconditions">Terms and Conditions</a></li> 
+//       
               </ul>
             </div>
 
